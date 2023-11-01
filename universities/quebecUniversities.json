@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "McGill University", "img": "Placeholder"},
+    {"name": "Université de Montréal", "img": "Placeholder"},
+    {"name": "Université Laval", "img": "Placeholder"},
+    {"name": "Université de Sherbrooke", "img": "Placeholder"},
+    {"name": "Université du Québec à Montréal (UQAM)", "img": "Placeholder"},
+    {"name": "Université du Québec à Trois-Rivières (UQTR)", "img": "Placeholder"},
+    {"name": "Université du Québec à Chicoutimi (UQAC)", "img": "Placeholder"},
+    {"name": "Université du Québec à Rimouski (UQAR)", "img": "Placeholder"},
+    {"name": "Concordia University", "img": "Placeholder"},
+    {"name": "Université de Québec en Abitibi-Témiscamingue (UQAT)", "img": "Placeholder"},
+    {"name": "Université de Québec en Outaouais (UQO)", "img": "Placeholder"},
+    {"name": "Bishop's University", "img": "Placeholder"},
+    {"name": "École de technologie supérieure (ÉTS)", "img": "Placeholder"},
+    {"name": "HEC Montréal (École des Hautes Études Commerciales)", "img": "Placeholder"},
+    {"name": "Polytechnique Montréal", "img": "Placeholder"},
+    {"name": "Université de Sherbrooke - Campus de Longueuil", "img": "Placeholder"},
+    {"name": "Université TÉLUQ", "img": "Placeholder"},
+    {"name": "TÉLUQ - Télé-université (Online University)", "img": "Placeholder"}
+  ]
+}
