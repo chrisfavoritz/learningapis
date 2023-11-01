@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "Dawson College", "img": "Placeholder"},
+    {"name": "Vanier College", "img": "Placeholder"},
+    {"name": "Marianopolis College", "img": "Placeholder"},
+    {"name": "John Abbott College", "img": "Placeholder"},
+    {"name": "Champlain College Saint-Lambert", "img": "Placeholder"},
+    {"name": "Collège de Maisonneuve", "img": "Placeholder"},
+    {"name": "Collège Ahuntsic", "img": "Placeholder"},
+    {"name": "Collège Montmorency", "img": "Placeholder"},
+    {"name": "Collège de Bois-de-Boulogne", "img": "Placeholder"},
+    {"name": "Collège André-Grasset", "img": "Placeholder"},
+    {"name": "Collège Lionel-Groulx", "img": "Placeholder"},
+    {"name": "Collège de Rosemont", "img": "Placeholder"},
+    {"name": "Collège Jean-de-Brébeuf", "img": "Placeholder"},
+    {"name": "Collège LaSalle", "img": "Placeholder"},
+    {"name": "Collège Mérici", "img": "Placeholder"},
+    {"name": "Cégep de Saint-Laurent", "img": "Placeholder"},
+    {"name": "Cégep de l'Outaouais", "img": "Placeholder"},
+    {"name": "Cégep de Trois-Rivières", "img": "Placeholder"},
+    {"name": "Cégep de Sherbrooke", "img": "Placeholder"},
+    {"name": "Cégep de Chicoutimi", "img": "Placeholder"}
+  ]
+}
