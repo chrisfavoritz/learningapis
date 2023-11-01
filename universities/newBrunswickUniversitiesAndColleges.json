@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"name": "University of New Brunswick", "img": "Placeholder"},
+    {"name": "Mount Allison University", "img": "Placeholder"},
+    {"name": "St. Thomas University", "img": "Placeholder"},
+    {"name": "Université de Moncton", "img": "Placeholder"},
+    {"name": "New Brunswick Community College (NBCC)", "img": "Placeholder"},
+    {"name": "Collège communautaire du Nouveau-Brunswick (CCNB)", "img": "Placeholder"}
+  ]
+}
