@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "Fiction", "img": "Placeholder"},
+    {"name": "Mystery/Thriller/Crime", "img": "Placeholder"},
+    {"name": "Romance", "img": "Placeholder"},
+    {"name": "Fantasy", "img": "Placeholder"},
+    {"name": "Science Fiction (Sci-Fi)", "img": "Placeholder"},
+    {"name": "Historical Fiction", "img": "Placeholder"},
+    {"name": "Non-Fiction", "img": "Placeholder"},
+    {"name": "Biography/Memoir", "img": "Placeholder"},
+    {"name": "Horror", "img": "Placeholder"},
+    {"name": "Young Adult (YA)", "img": "Placeholder"},
+    {"name": "Children's", "img": "Placeholder"},
+    {"name": "Adventure", "img": "Placeholder"},
+    {"name": "Self-help", "img": "Placeholder"},
+    {"name": "Classic Literature", "img": "Placeholder"},
+    {"name": "Literary Fiction", "img": "Placeholder"},
+    {"name": "Graphic Novels/Comics", "img": "Placeholder"},
+    {"name": "Poetry", "img": "Placeholder"},
+    {"name": "Religious/Spiritual", "img": "Placeholder"},
+    {"name": "Science & Nature", "img": "Placeholder"},
+    {"name": "Travel", "img": "Placeholder"}
+  ]
+}
