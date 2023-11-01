@@ -1,0 +1,19 @@
+{
+  "items": [
+    {"name": "Langara College", "img": "Placeholder"},
+    {"name": "Douglas College", "img": "Placeholder"},
+    {"name": "Capilano University", "img": "Placeholder"},
+    {"name": "Vancouver Community College", "img": "Placeholder"},
+    {"name": "British Columbia Institute of Technology (BCIT)", "img": "Placeholder"},
+    {"name": "Camosun College", "img": "Placeholder"},
+    {"name": "Vancouver Island University", "img": "Placeholder"},
+    {"name": "College of the Rockies", "img": "Placeholder"},
+    {"name": "Okanagan College", "img": "Placeholder"},
+    {"name": "Selkirk College", "img": "Placeholder"},
+    {"name": "Northern Lights College", "img": "Placeholder"},
+    {"name": "North Island College", "img": "Placeholder"},
+    {"name": "Thompson Rivers University", "img": "Placeholder"},
+    {"name": "Coast Mountain College", "img": "Placeholder"},
+    {"name": "Nicola Valley Institute of Technology (NVIT)", "img": "Placeholder"}
+  ]
+}
