@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "Algoma University", "img": "Placeholder"},
+    {"name": "Brock University", "img": "Placeholder"},
+    {"name": "Carleton University", "img": "Placeholder"},
+    {"name": "Lakehead University", "img": "Placeholder"},
+    {"name": "Laurentian University", "img": "Placeholder"},
+    {"name": "McMaster University", "img": "Placeholder"},
+    {"name": "Nipissing University", "img": "Placeholder"},
+    {"name": "OCAD University (Ontario College of Art and Design University)", "img": "Placeholder"},
+    {"name": "Queen's University", "img": "Placeholder"},
+    {"name": "Ryerson University", "img": "Placeholder"},
+    {"name": "Trent University", "img": "Placeholder"},
+    {"name": "University of Guelph", "img": "Placeholder"},
+    {"name": "University of Ontario Institute of Technology (UOIT)", "img": "Placeholder"},
+    {"name": "University of Ottawa", "img": "Placeholder"},
+    {"name": "University of Toronto", "img": "Placeholder"},
+    {"name": "University of Waterloo", "img": "Placeholder"},
+    {"name": "University of Western Ontario (Western University)", "img": "Placeholder"},
+    {"name": "University of Windsor", "img": "Placeholder"},
+    {"name": "Wilfrid Laurier University", "img": "Placeholder"},
+    {"name": "York University", "img": "Placeholder"}
+  ]
+}
