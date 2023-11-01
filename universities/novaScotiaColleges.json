@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Nova Scotia Community College (NSCC)", "img": "Placeholder"},
+    {"name": "Dalhousie Agricultural Campus", "img": "Placeholder"},
+    {"name": "Kingstec Campus - NSCC", "img": "Placeholder"},
+    {"name": "Marconi Campus - NSCC", "img": "Placeholder"},
+    {"name": "Pictou Campus - NSCC", "img": "Placeholder"},
+    {"name": "Truro Campus - NSCC", "img": "Placeholder"},
+    {"name": "Annapolis Valley Campus - NSCC", "img": "Placeholder"},
+    {"name": "Cumberland Campus - NSCC", "img": "Placeholder"},
+    {"name": "Waterfront Campus - NSCC", "img": "Placeholder"},
+    {"name": "Cape Breton University", "img": "Placeholder"},
+    {"name": "Maritime College of Forest Technology (MCFT)", "img": "Placeholder"}
+  ]
+}
