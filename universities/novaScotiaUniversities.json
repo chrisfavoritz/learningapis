@@ -1,0 +1,13 @@
+{
+  "items": [
+    {"name": "Acadia University", "img": "Placeholder"},
+    {"name": "Cape Breton University", "img": "Placeholder"},
+    {"name": "Dalhousie University", "img": "Placeholder"},
+    {"name": "Mount Saint Vincent University", "img": "Placeholder"},
+    {"name": "Saint Francis Xavier University", "img": "Placeholder"},
+    {"name": "Saint Mary's University", "img": "Placeholder"},
+    {"name": "Université Sainte-Anne", "img": "Placeholder"},
+    {"name": "University of King's College", "img": "Placeholder"},
+    {"name": "Dalhousie University Agricultural Campus", "img": "Placeholder"}
+  ]
+}
