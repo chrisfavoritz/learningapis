@@ -1,0 +1,27 @@
+{
+  "items": [
+    {"name": "University of Wisconsin-Madison (Madison)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Milwaukee (Milwaukee)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-La Crosse (La Crosse)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Eau Claire (Eau Claire)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Green Bay (Green Bay)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Oshkosh (Oshkosh)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Parkside (Kenosha)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Platteville (Platteville)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-River Falls (River Falls)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Stevens Point (Stevens Point)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Stout (Menomonie)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Superior (Superior)", "img": "Placeholder"},
+    {"name": "University of Wisconsin-Whitewater (Whitewater)", "img": "Placeholder"},
+    {"name": "Marquette University (Milwaukee)", "img": "Placeholder"},
+    {"name": "Milwaukee School of Engineering (Milwaukee)", "img": "Placeholder"},
+    {"name": "University of Wisconsin Colleges (System of two-year campuses)", "img": "Placeholder"},
+    {"name": "Beloit College (Beloit)", "img": "Placeholder"},
+    {"name": "Lawrence University (Appleton)", "img": "Placeholder"},
+    {"name": "Carthage College (Kenosha)", "img": "Placeholder"},
+    {"name": "Ripon College (Ripon)", "img": "Placeholder"},
+    {"name": "St. Norbert College (De Pere)", "img": "Placeholder"},
+    {"name": "Concordia University Wisconsin (Mequon)", "img": "Placeholder"},
+    {"name": "Wisconsin Lutheran College (Milwaukee)", "img": "Placeholder"}
+  ]
+}
