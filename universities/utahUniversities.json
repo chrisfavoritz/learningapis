@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "University of Utah", "img": "Placeholder"},
+    {"name": "Brigham Young University (BYU)", "img": "Placeholder"},
+    {"name": "Utah State University", "img": "Placeholder"},
+    {"name": "Weber State University", "img": "Placeholder"},
+    {"name": "Utah Valley University (UVU)", "img": "Placeholder"},
+    {"name": "Southern Utah University (SUU)", "img": "Placeholder"},
+    {"name": "Snow College", "img": "Placeholder"},
+    {"name": "Westminster College", "img": "Placeholder"},
+    {"name": "Dixie State University", "img": "Placeholder"},
+    {"name": "Western Governors University (WGU)", "img": "Placeholder"},
+    {"name": "Westminster College", "img": "Placeholder"},
+    {"name": "Neumont College of Computer Science", "img": "Placeholder"},
+    {"name": "Stevens-Henager College", "img": "Placeholder"},
+    {"name": "Provo College", "img": "Placeholder"},
+    {"name": "Independence University", "img": "Placeholder"},
+    {"name": "Eagle Gate College", "img": "Placeholder"},
+    {"name": "Broadview University", "img": "Placeholder"},
+    {"name": "Salt Lake Community College (SLCC)", "img": "Placeholder"}
+  ]
+}
