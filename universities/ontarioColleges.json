@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "Seneca College", "img": "Placeholder"},
+    {"name": "Humber College", "img": "Placeholder"},
+    {"name": "George Brown College", "img": "Placeholder"},
+    {"name": "Centennial College", "img": "Placeholder"},
+    {"name": "Sheridan College", "img": "Placeholder"},
+    {"name": "Durham College", "img": "Placeholder"},
+    {"name": "Fanshawe College", "img": "Placeholder"},
+    {"name": "Mohawk College", "img": "Placeholder"},
+    {"name": "Conestoga College", "img": "Placeholder"},
+    {"name": "Algonquin College", "img": "Placeholder"},
+    {"name": "Lambton College", "img": "Placeholder"},
+    {"name": "Niagara College", "img": "Placeholder"},
+    {"name": "St. Lawrence College", "img": "Placeholder"},
+    {"name": "Sault College", "img": "Placeholder"},
+    {"name": "Fleming College", "img": "Placeholder"},
+    {"name": "Cambrian College", "img": "Placeholder"},
+    {"name": "Confederation College", "img": "Placeholder"},
+    {"name": "Canadore College", "img": "Placeholder"}
+  ]
+}
