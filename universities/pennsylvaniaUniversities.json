@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "University of Pennsylvania (UPenn)", "img": "Placeholder"},
+    {"name": "Pennsylvania State University (Penn State)", "img": "Placeholder"},
+    {"name": "Carnegie Mellon University", "img": "Placeholder"},
+    {"name": "Temple University", "img": "Placeholder"},
+    {"name": "Drexel University", "img": "Placeholder"},
+    {"name": "Villanova University", "img": "Placeholder"},
+    {"name": "University of Pittsburgh", "img": "Placeholder"},
+    {"name": "Lehigh University", "img": "Placeholder"},
+    {"name": "Duquesne University", "img": "Placeholder"},
+    {"name": "Bucknell University", "img": "Placeholder"},
+    {"name": "University of Scranton", "img": "Placeholder"},
+    {"name": "Swarthmore College", "img": "Placeholder"},
+    {"name": "Lafayette College", "img": "Placeholder"},
+    {"name": "Haverford College", "img": "Placeholder"},
+    {"name": "Franklin and Marshall College", "img": "Placeholder"},
+    {"name": "Gettysburg College", "img": "Placeholder"},
+    {"name": "Allegheny College", "img": "Placeholder"},
+    {"name": "Bryn Mawr College", "img": "Placeholder"},
+    {"name": "Muhlenberg College", "img": "Placeholder"},
+    {"name": "West Chester University of Pennsylvania", "img": "Placeholder"}
+  ]
+}
