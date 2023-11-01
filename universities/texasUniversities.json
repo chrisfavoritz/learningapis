@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "The University of Texas at Austin", "img": "Placeholder"},
+    {"name": "Texas A&M University", "img": "Placeholder"},
+    {"name": "University of Houston", "img": "Placeholder"},
+    {"name": "Rice University", "img": "Placeholder"},
+    {"name": "Baylor University", "img": "Placeholder"},
+    {"name": "Texas Tech University", "img": "Placeholder"},
+    {"name": "University of North Texas", "img": "Placeholder"},
+    {"name": "Southern Methodist University (SMU)", "img": "Placeholder"},
+    {"name": "Texas State University", "img": "Placeholder"},
+    {"name": "University of Texas at Dallas", "img": "Placeholder"},
+    {"name": "Texas Christian University (TCU)", "img": "Placeholder"},
+    {"name": "University of Texas at San Antonio (UTSA)", "img": "Placeholder"},
+    {"name": "Texas Woman's University (TWU)", "img": "Placeholder"},
+    {"name": "University of Texas at Arlington (UT Arlington)", "img": "Placeholder"},
+    {"name": "Texas Southern University (TSU)", "img": "Placeholder"},
+    {"name": "Lamar University", "img": "Placeholder"},
+    {"name": "Texas A&M University-Corpus Christi", "img": "Placeholder"},
+    {"name": "Texas A&M University-Kingsville", "img": "Placeholder"},
+    {"name": "Sam Houston State University", "img": "Placeholder"},
+    {"name": "University of Texas El Paso (UTEP)", "img": "Placeholder"}
+  ]
+}
