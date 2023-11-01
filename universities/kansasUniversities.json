@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"name": "University of Kansas (Lawrence)", "img": "Placeholder"},
+    {"name": "Kansas State University (Manhattan)", "img": "Placeholder"},
+    {"name": "Wichita State University (Wichita)", "img": "Placeholder"},
+    {"name": "Emporia State University (Emporia)", "img": "Placeholder"},
+    {"name": "Fort Hays State University (Hays)", "img": "Placeholder"},
+    {"name": "Pittsburg State University (Pittsburg)", "img": "Placeholder"},
+    {"name": "Washburn University (Topeka)", "img": "Placeholder"},
+    {"name": "Baker University (Baldwin City)", "img": "Placeholder"},
+    {"name": "Friends University (Wichita)", "img": "Placeholder"},
+    {"name": "Newman University (Wichita)", "img": "Placeholder"},
+    {"name": "Southwestern College (Winfield)", "img": "Placeholder"},
+    {"name": "Bethany College (Lindsborg)", "img": "Placeholder"},
+    {"name": "Sterling College (Sterling)", "img": "Placeholder"},
+    {"name": "McPherson College (McPherson)", "img": "Placeholder"},
+    {"name": "Ottawa University (Ottawa)", "img": "Placeholder"},
+    {"name": "Tabor College (Hillsboro)", "img": "Placeholder"},
+    {"name": "MidAmerica Nazarene University (Olathe)", "img": "Placeholder"},
+    {"name": "Kansas Wesleyan University (Salina)", "img": "Placeholder"},
+    {"name": "Barclay College (Haviland)", "img": "Placeholder"},
+    {"name": "Benedictine College (Atchison)", "img": "Placeholder"},
+    {"name": "Donnelly College (Kansas City)", "img": "Placeholder"},
+    {"name": "Manhattan Christian College (Manhattan)", "img": "Placeholder"},
+    {"name": "Cleveland University-Kansas City (Overland Park)", "img": "Placeholder"},
+    {"name": "Kansas City University (Kansas City)", "img": "Placeholder"},
+    {"name": "Central Christian College of Kansas (McPherson)", "img": "Placeholder"}
+  ]
+}
