@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"name": "University of Alberta", "img": "Placeholder"},
+    {"name": "University of Calgary", "img": "Placeholder"},
+    {"name": "University of Lethbridge", "img": "Placeholder"},
+    {"name": "Athabasca University", "img": "Placeholder"},
+    {"name": "Mount Royal University", "img": "Placeholder"},
+    {"name": "MacEwan University", "img": "Placeholder"},
+    {"name": "Ambrose University", "img": "Placeholder"},
+    {"name": "St. Mary's University", "img": "Placeholder"}
+  ]
+}
