@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "Columbia University", "img": "Placeholder"},
+    {"name": "Cornell University", "img": "Placeholder"},
+    {"name": "New York University (NYU)", "img": "Placeholder"},
+    {"name": "University at Buffalo (SUNY Buffalo)", "img": "Placeholder"},
+    {"name": "Syracuse University", "img": "Placeholder"},
+    {"name": "Stony Brook University (SUNY Stony Brook)", "img": "Placeholder"},
+    {"name": "University of Rochester", "img": "Placeholder"},
+    {"name": "Fordham University", "img": "Placeholder"},
+    {"name": "Binghamton University (SUNY Binghamton)", "img": "Placeholder"},
+    {"name": "Rensselaer Polytechnic Institute (RPI)", "img": "Placeholder"},
+    {"name": "The City College of New York (CCNY)", "img": "Placeholder"},
+    {"name": "Yeshiva University", "img": "Placeholder"},
+    {"name": "The New School", "img": "Placeholder"},
+    {"name": "Pace University", "img": "Placeholder"},
+    {"name": "Hofstra University", "img": "Placeholder"},
+    {"name": "Ithaca College", "img": "Placeholder"},
+    {"name": "St. John's University", "img": "Placeholder"},
+    {"name": "Rochester Institute of Technology (RIT)", "img": "Placeholder"},
+    {"name": "University at Albany (SUNY Albany)", "img": "Placeholder"},
+    {"name": "University of Buffalo, The State University of New York (UB)", "img": "Placeholder"}
+  ]
+}
