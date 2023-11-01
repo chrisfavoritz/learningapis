@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "University of Kentucky (Lexington)", "img": "Placeholder"},
+    {"name": "University of Louisville (Louisville)", "img": "Placeholder"},
+    {"name": "Western Kentucky University (Bowling Green)", "img": "Placeholder"},
+    {"name": "Eastern Kentucky University (Richmond)", "img": "Placeholder"},
+    {"name": "Northern Kentucky University (Highland Heights)", "img": "Placeholder"},
+    {"name": "Murray State University (Murray)", "img": "Placeholder"},
+    {"name": "Morehead State University (Morehead)", "img": "Placeholder"},
+    {"name": "Transylvania University (Lexington)", "img": "Placeholder"},
+    {"name": "Bellarmine University (Louisville)", "img": "Placeholder"},
+    {"name": "Centre College (Danville)", "img": "Placeholder"},
+    {"name": "Kentucky State University (Frankfort)", "img": "Placeholder"},
+    {"name": "Asbury University (Wilmore)", "img": "Placeholder"},
+    {"name": "Berea College (Berea)", "img": "Placeholder"},
+    {"name": "Georgetown College (Georgetown)", "img": "Placeholder"},
+    {"name": "Kentucky Wesleyan College (Owensboro)", "img": "Placeholder"},
+    {"name": "Spalding University (Louisville)", "img": "Placeholder"},
+    {"name": "Thomas More University (Crestview Hills)", "img": "Placeholder"},
+    {"name": "Union College (Barbourville)", "img": "Placeholder"}
+  ]
+}
