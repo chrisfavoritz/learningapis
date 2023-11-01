@@ -1,0 +1,19 @@
+{
+  "items": [
+    {"name": "University of British Columbia (UBC)", "img": "Placeholder"},
+    {"name": "Simon Fraser University (SFU)", "img": "Placeholder"},
+    {"name": "University of Victoria (UVic)", "img": "Placeholder"},
+    {"name": "University of Northern British Columbia (UNBC)", "img": "Placeholder"},
+    {"name": "Thompson Rivers University (TRU)", "img": "Placeholder"},
+    {"name": "Royal Roads University", "img": "Placeholder"},
+    {"name": "Emily Carr University of Art and Design", "img": "Placeholder"},
+    {"name": "Kwantlen Polytechnic University (KPU)", "img": "Placeholder"},
+    {"name": "Capilano University", "img": "Placeholder"},
+    {"name": "University of the Fraser Valley (UFV)", "img": "Placeholder"},
+    {"name": "Trinity Western University (TWU)", "img": "Placeholder"},
+    {"name": "Vancouver Island University (VIU)", "img": "Placeholder"},
+    {"name": "Douglas College", "img": "Placeholder"},
+    {"name": "University Canada West (UCW)", "img": "Placeholder"},
+    {"name": "Quest University Canada", "img": "Placeholder"}
+  ]
+}
