@@ -1,0 +1,26 @@
+{
+  "items": [
+    {"name": "University of Michigan (Ann Arbor)", "img": "Placeholder"},
+    {"name": "Michigan State University (East Lansing)", "img": "Placeholder"},
+    {"name": "Wayne State University (Detroit)", "img": "Placeholder"},
+    {"name": "University of Michigan–Dearborn", "img": "Placeholder"},
+    {"name": "University of Michigan–Flint", "img": "Placeholder"},
+    {"name": "Central Michigan University (Mount Pleasant)", "img": "Placeholder"},
+    {"name": "Eastern Michigan University (Ypsilanti)", "img": "Placeholder"},
+    {"name": "Western Michigan University (Kalamazoo)", "img": "Placeholder"},
+    {"name": "Oakland University (Rochester)", "img": "Placeholder"},
+    {"name": "Michigan Technological University (Houghton)", "img": "Placeholder"},
+    {"name": "Grand Valley State University (Allendale)", "img": "Placeholder"},
+    {"name": "Ferris State University (Big Rapids)", "img": "Placeholder"},
+    {"name": "Northern Michigan University (Marquette)", "img": "Placeholder"},
+    {"name": "Saginaw Valley State University (University Center)", "img": "Placeholder"},
+    {"name": "University of Detroit Mercy (Detroit)", "img": "Placeholder"},
+    {"name": "Michigan State University College of Law (East Lansing)", "img": "Placeholder"},
+    {"name": "University of Michigan Law School (Ann Arbor)", "img": "Placeholder"},
+    {"name": "Wayne State University Law School (Detroit)", "img": "Placeholder"},
+    {"name": "Central Michigan University College of Medicine (Mount Pleasant)", "img": "Placeholder"},
+    {"name": "Western Michigan University Homer Stryker M.D. School of Medicine (Kalamazoo)", "img": "Placeholder"},
+    {"name": "Michigan State University College of Human Medicine (East Lansing)", "img": "Placeholder"},
+    {"name": "Michigan State University College of Osteopathic Medicine (East Lansing)", "img": "Placeholder"}
+  ]
+}
