@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"name": "Harvard University", "img": "Placeholder"},
+    {"name": "Massachusetts Institute of Technology (MIT)", "img": "Placeholder"},
+    {"name": "Stanford University", "img": "Placeholder"},
+    {"name": "California Institute of Technology (Caltech)", "img": "Placeholder"},
+    {"name": "University of Chicago", "img": "Placeholder"},
+    {"name": "Princeton University", "img": "Placeholder"},
+    {"name": "Yale University", "img": "Placeholder"},
+    {"name": "Columbia University", "img": "Placeholder"},
+    {"name": "University of Pennsylvania", "img": "Placeholder"},
+    {"name": "Johns Hopkins University", "img": "Placeholder"}
+  ]
+}
