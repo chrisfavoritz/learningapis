@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"name": "University of Toronto", "img": "Placeholder"},
+    {"name": "University of British Columbia", "img": "Placeholder"},
+    {"name": "McGill University", "img": "Placeholder"},
+    {"name": "University of Alberta", "img": "Placeholder"},
+    {"name": "University of Montreal", "img": "Placeholder"},
+    {"name": "McMaster University", "img": "Placeholder"},
+    {"name": "University of Waterloo", "img": "Placeholder"},
+    {"name": "University of Calgary", "img": "Placeholder"},
+    {"name": "Queen's University", "img": "Placeholder"},
+    {"name": "Western University (University of Western Ontario)", "img": "Placeholder"}
+  ]
+}
