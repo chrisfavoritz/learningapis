@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"name": "Ohio State University (Columbus)", "img": "Placeholder"},
+    {"name": "University of Cincinnati (Cincinnati)", "img": "Placeholder"},
+    {"name": "Case Western Reserve University (Cleveland)", "img": "Placeholder"},
+    {"name": "Kent State University (Kent)", "img": "Placeholder"},
+    {"name": "Ohio University (Athens)", "img": "Placeholder"},
+    {"name": "Miami University (Oxford)", "img": "Placeholder"},
+    {"name": "Wright State University (Dayton)", "img": "Placeholder"},
+    {"name": "Bowling Green State University (Bowling Green)", "img": "Placeholder"},
+    {"name": "University of Akron (Akron)", "img": "Placeholder"},
+    {"name": "Cleveland State University (Cleveland)", "img": "Placeholder"},
+    {"name": "University of Toledo (Toledo)", "img": "Placeholder"},
+    {"name": "Youngstown State University (Youngstown)", "img": "Placeholder"},
+    {"name": "Xavier University (Cincinnati)", "img": "Placeholder"},
+    {"name": "University of Dayton (Dayton)", "img": "Placeholder"},
+    {"name": "Ohio Northern University (Ada)", "img": "Placeholder"},
+    {"name": "Capital University (Columbus)", "img": "Placeholder"},
+    {"name": "Oberlin College (Oberlin)", "img": "Placeholder"},
+    {"name": "Denison University (Granville)", "img": "Placeholder"},
+    {"name": "Ohio Wesleyan University (Delaware)", "img": "Placeholder"},
+    {"name": "John Carroll University (University Heights)", "img": "Placeholder"},
+    {"name": "Cedarville University (Cedarville)", "img": "Placeholder"},
+    {"name": "The College of Wooster (Wooster)", "img": "Placeholder"},
+    {"name": "Kenyon College (Gambier)", "img": "Placeholder"},
+    {"name": "Franciscan University of Steubenville (Steubenville)", "img": "Placeholder"},
+    {"name": "Shawnee State University (Portsmouth)", "img": "Placeholder"}
+  ]
+}
