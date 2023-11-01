@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"name": "University of Iowa (Iowa City)", "img": "Placeholder"},
+    {"name": "Iowa State University (Ames)", "img": "Placeholder"},
+    {"name": "University of Northern Iowa (Cedar Falls)", "img": "Placeholder"},
+    {"name": "Drake University (Des Moines)", "img": "Placeholder"},
+    {"name": "Grinnell College (Grinnell)", "img": "Placeholder"},
+    {"name": "Simpson College (Indianola)", "img": "Placeholder"},
+    {"name": "Cornell College (Mount Vernon)", "img": "Placeholder"},
+    {"name": "Luther College (Decorah)", "img": "Placeholder"},
+    {"name": "Coe College (Cedar Rapids)", "img": "Placeholder"},
+    {"name": "Central College (Pella)", "img": "Placeholder"},
+    {"name": "Buena Vista University (Storm Lake)", "img": "Placeholder"},
+    {"name": "University of Dubuque (Dubuque)", "img": "Placeholder"},
+    {"name": "Wartburg College (Waverly)", "img": "Placeholder"},
+    {"name": "Loras College (Dubuque)", "img": "Placeholder"},
+    {"name": "Upper Iowa University (Fayette)", "img": "Placeholder"},
+    {"name": "Iowa Wesleyan University (Mount Pleasant)", "img": "Placeholder"},
+    {"name": "Maharishi International University (Fairfield)", "img": "Placeholder"},
+    {"name": "Mount Mercy University (Cedar Rapids)", "img": "Placeholder"},
+    {"name": "Northwestern College (Orange City)", "img": "Placeholder"},
+    {"name": "Briar Cliff University (Sioux City)", "img": "Placeholder"},
+    {"name": "Dordt University (Sioux Center)", "img": "Placeholder"},
+    {"name": "William Penn University (Oskaloosa)", "img": "Placeholder"},
+    {"name": "Morningside College (Sioux City)", "img": "Placeholder"},
+    {"name": "Saint Ambrose University (Davenport)", "img": "Placeholder"},
+    {"name": "Clarke University (Dubuque)", "img": "Placeholder"}
+  ]
+}
