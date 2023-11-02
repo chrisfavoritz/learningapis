@@ -1,14 +1,25 @@
 {
   "items": [
-    {"name": "The Marketing Seminar: 100+ Tools, Templates, and Tactics to Win Your Audience", "img": "Placeholder"},
-    {"name": "This Is Marketing: You Can't Be Seen Until You Learn to See", "img": "Placeholder"},
-    {"name": "Linchpin: Are You Indispensable?", "img": "Placeholder"},
-    {"name": "Tribes: We Need You to Lead Us", "img": "Placeholder"},
-    {"name": "The Dip: A Little Book That Teaches You When to Quit (and When to Stick)", "img": "Placeholder"},
-    {"name": "Meatball Sundae: Is Your Marketing Out of Sync?", "img": "Placeholder"},
-    {"name": "All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World", "img": "Placeholder"},
-    {"name": "Purple Cow: Transform Your Business by Being Remarkable", "img": "Placeholder"},
-    {"name": "Survival Is Not Enough: Why Smart Companies Abandon Worry and Embrace Change", "img": "Placeholder"},
-    {"name": "Unleashing the Ideavirus", "img": "Placeholder"}
-  ]
+    {"name": "Permission Marketing: Turning Strangers into Friends and Friends into Customers (1999)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348522186i/685401.jpg"},
+    {"name": "Unleashing the Ideavirus (2000)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440988847i/2613.jpg"},
+    {"name": "The Big Red Fez: How to Make Any Web Site Better (2001)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347432729i/160835.jpg"},
+    {"name": "Survival Is Not Enough: Zooming, Evolution, and the Future of Your Company (2002)", "img": "https://m.media-amazon.com/images/I/414BSVBK9ZL._AC_UF1000,1000_QL80_.jpg"},
+    {"name": "Purple Cow: Transform Your Business by Being Remarkable (2003)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309203098i/641604.jpg"},
+    {"name": "Free Prize Inside!: The Next Big Marketing Idea (2004)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440027850i/993049.jpg"},
+    {"name": "All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World (2005)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420382656i/160830.jpg"},
+    {"name": "The Dip: A Little Book That Teaches You When to Quit (and When to Stick) (2007)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311282216i/324748.jpg"},
+    {"name": "Meatball Sundae: Is Your Marketing out of Sync? (2007)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442679884i/2210223.jpg"},
+    {"name": "Tribes: We Need You to Lead Us (2008)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347711639i/3828382.jpg"},
+    {"name": "Linchpin: Are You Indispensable? (2010)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442610563i/7155145.jpg"},
+    {"name": "Poke the Box (2011)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347742814i/10368067.jpg"},
+    {"name": "We Are All Weird: The Myth of Mass and the End of Compliance (2011)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412180746i/12685968.jpg"},
+    {"name": "The Icarus Deception: How High Will You Fly? (2012)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355795227i/15843041.jpg"},
+    {"name": "V Is for Vulnerable: Life Outside the Comfort Zone (2012)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356192316i/15843040.jpg"},
+    {"name": "Whatcha Gonna Do with That Duck?: And Other Provocations, 2006-2012 (2012)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356192221i/15843039.jpg"},
+    {"name": "What to Do When It's Your Turn (and It's Always Your Turn) (2014)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420710928i/23665356.jpg"},
+    {"name": "Small Is the New Big: And 183 Other Riffs, Rants, and Remarkable Business Ideas (2015)", "img": "https://www.goodreads.com/book/show/154959.Small_Is_the_New_Big"},
+    {"name": "This Is Marketing: You Can't Be Seen Until You Learn to See (2018)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529247040i/40549476.jpg"},
+    {"name": "The Practice: Shipping Creative Work (2020)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598245238i/53479927.jpg"}
+]
+
 }
