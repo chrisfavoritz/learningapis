@@ -1,10 +1,11 @@
 {
   "items": [
-    {"name": "The Tipping Point: How Little Things Can Make a Big Difference", "img": "Placeholder"},
-    {"name": "Blink: The Power of Thinking Without Thinking", "img": "Placeholder"},
-    {"name": "Outliers: The Story of Success", "img": "Placeholder"},
-    {"name": "What the Dog Saw: And Other Adventures", "img": "Placeholder"},
-    {"name": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants", "img": "Placeholder"},
-    {"name": "Talking to Strangers: What We Should Know About the People We Don't Know", "img": "Placeholder"}
+    {"name": "The Tipping Point: How Little Things Can Make a Big Difference", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473396980i/2612.jpg"},
+    {"name": "Blink: The Power of Thinking Without Thinking", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440763417i/40102.jpg"},
+    {"name": "Outliers: The Story of Success", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg"},
+    {"name": "What the Dog Saw: And Other Adventures", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344263875i/6516450.jpg"},
+    {"name": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391813567i/15751404.jpg"},
+    {"name": "Talking to Strangers: What We Should Know About the People We Don't Know", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549393502i/43848929.jpg"},
+    {"name": "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616697844i/57007687.jpg"}
   ]
 }
