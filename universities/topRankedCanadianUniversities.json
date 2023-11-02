@@ -1,14 +1,14 @@
 {
   "items": [
-    {"name": "University of Toronto", "img": "Placeholder"},
-    {"name": "University of British Columbia", "img": "Placeholder"},
-    {"name": "McGill University", "img": "Placeholder"},
-    {"name": "University of Alberta", "img": "Placeholder"},
-    {"name": "University of Montreal", "img": "Placeholder"},
-    {"name": "McMaster University", "img": "Placeholder"},
-    {"name": "University of Waterloo", "img": "Placeholder"},
-    {"name": "University of Calgary", "img": "Placeholder"},
-    {"name": "Queen's University", "img": "Placeholder"},
-    {"name": "Western University (University of Western Ontario)", "img": "Placeholder"}
+    {"name": "University of Toronto", "img": "https://clue.utoronto.ca/wp-content/uploads/2021/11/utoronto.jpg"},
+    {"name": "University of British Columbia", "img": "https://seeklogo.com/images/U/university-of-british-columbia-logo-F4496C20CA-seeklogo.com.png"},
+    {"name": "McGill University", "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mcgill_university_coa.png"},
+    {"name": "Western University (University of Western Ontario)", "img": "https://www.communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif"},
+    {"name": "University of Alberta", "img": "https://www.ualberta.ca/toolkit/media-library/homepage-assets/ua_logo_green_rgb.png"},
+    {"name": "University of Montreal", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Universite_de_Montreal_logo.svg/320px-Universite_de_Montreal_logo.svg.png"},
+    {"name": "McMaster University", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/McMaster_University_logo.svg/1200px-McMaster_University_logo.svg.png"},
+    {"name": "University of Waterloo", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"},
+    {"name": "University of Calgary", "img": "https://www.ucalgary.ca/sites/default/files/styles/ucws_image_desktop/public/2019-09/UCalgary_Vertical_logo_colour_1.jpg?h=55272f2a&itok=PrLMnGHO"},
+    {"name": "Queen's University", "img": "https://www.queensu.ca/encyclopedia/sites/qencwww/files/uploaded_images/l/logo/QueensLogo_colour.png"}
   ]
 }
