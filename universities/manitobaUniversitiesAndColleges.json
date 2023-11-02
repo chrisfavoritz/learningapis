@@ -1,10 +1,10 @@
 {
   "items": [
-    {"name": "University of Manitoba", "img": "Placeholder"},
-    {"name": "University of Winnipeg", "img": "Placeholder"},
-    {"name": "Brandon University", "img": "Placeholder"},
-    {"name": "Red River College", "img": "Placeholder"},
-    {"name": "Assiniboine Community College", "img": "Placeholder"},
-    {"name": "Manitoba Institute of Trades and Technology (MITT)", "img": "Placeholder"}
+    {"name": "University of Manitoba", "img": "https://seeklogo.com/images/U/university-of-manitoba-logo-9BE301D7DC-seeklogo.com.png"},
+    {"name": "University of Winnipeg", "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/UW_centre-stack_rgb-black.png"},
+    {"name": "Brandon University", "img": "https://www.brandonu.ca/communications/files/Brandon-University-Vertical-Logo-2-Colour-RGB.png"},
+    {"name": "Red River College", "img": "https://www.rrc.ca/marcom/wp-content/uploads/sites/1/sites/99/2022/08/RRC-Polytech-Centred.png"},
+    {"name": "Assiniboine Community College", "img": "https://d3lut3gzcpx87s.cloudfront.net/image_encoded/aHR0cHM6Ly9zaWxrc3RhcnQuczMuYW1hem9uYXdzLmNvbS81YzdlYzVhYTg5M2FhYTVmOTIwNmMzYWIuanBn/560x292"},
+    {"name": "Manitoba Institute of Trades and Technology (MITT)", "img": "https://yt3.googleusercontent.com/ytc/APkrFKbPC2zHCPY-RHQBbHhB_6-Cglkvy11JtCxqJQTHvw=s900-c-k-c0x00ffffff-no-rj"}
   ]
 }
