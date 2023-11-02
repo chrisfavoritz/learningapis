@@ -1,14 +1,14 @@
 {
   "items": [
-    {"name": "Harvard University", "img": "Placeholder"},
-    {"name": "Massachusetts Institute of Technology (MIT)", "img": "Placeholder"},
-    {"name": "Stanford University", "img": "Placeholder"},
-    {"name": "California Institute of Technology (Caltech)", "img": "Placeholder"},
-    {"name": "University of Chicago", "img": "Placeholder"},
-    {"name": "Princeton University", "img": "Placeholder"},
-    {"name": "Yale University", "img": "Placeholder"},
-    {"name": "Columbia University", "img": "Placeholder"},
-    {"name": "University of Pennsylvania", "img": "Placeholder"},
-    {"name": "Johns Hopkins University", "img": "Placeholder"}
+    {"name": "Harvard University", "img": "https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo-768x650.png"},
+    {"name": "Massachusetts Institute of Technology (MIT)", "img": "https://1000logos.net/wp-content/uploads/2022/08/MIT-Logo-1864-768x432.png"},
+    {"name": "Stanford University", "img": "https://1000logos.net/wp-content/uploads/2018/02/Stanford-University-Logo-768x432.png"},
+    {"name": "California Institute of Technology (Caltech)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_California_Institute_of_Technology.svg/1200px-Seal_of_the_California_Institute_of_Technology.svg.png"},
+    {"name": "University of Chicago", "img": "https://1000logos.net/wp-content/uploads/2022/07/University-of-Chicago-Seal-768x432.png"},
+    {"name": "Princeton University", "img": "https://1000logos.net/wp-content/uploads/2022/07/University-of-Princeton-Logo-1896.png"},
+    {"name": "Yale University", "img": "https://1000logos.net/wp-content/uploads/2019/06/Yale-Logo.png"},
+    {"name": "Columbia University", "img": "https://www.seekpng.com/png/full/266-2668391_master-of-science-degree-in-advanced-architectural-columbia.png"},
+    {"name": "University of Pennsylvania", "img": "https://1000logos.net/wp-content/uploads/2022/07/University-of-Pennsylvania-Logo-768x432.png"},
+    {"name": "Johns Hopkins University", "img": "https://1000logos.net/wp-content/uploads/2022/07/Johns-Hopkins-University-Logo-768x432.png"}
   ]
 }
