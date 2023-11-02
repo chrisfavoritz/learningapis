@@ -1,15 +1,16 @@
 {
   "items": [
-    {"name": "Liar's Poker: Rising Through the Wreckage on Wall Street", "img": "Placeholder"},
-    {"name": "Pacific Rift: Why Americans and Japanese Don't Understand Each Other", "img": "Placeholder"},
-    {"name": "Moneyball: The Art of Winning an Unfair Game", "img": "Placeholder"},
-    {"name": "The Blind Side: Evolution of a Game", "img": "Placeholder"},
-    {"name": "Panic: The Story of Modern Financial Insanity", "img": "Placeholder"},
-    {"name": "The Big Short: Inside the Doomsday Machine", "img": "Placeholder"},
-    {"name": "Boomerang: Travels in the New Third World", "img": "Placeholder"},
-    {"name": "Flash Boys: A Wall Street Revolt", "img": "Placeholder"},
-    {"name": "The Undoing Project: A Friendship That Changed Our Minds", "img": "Placeholder"},
-    {"name": "The Fifth Risk", "img": "Placeholder"},
-    {"name": "The Premonition: A Pandemic Story", "img": "Placeholder"}
+    {"name": "Liar's Poker: Rising Through the Wreckage on Wall Street", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348906209i/7865083.jpg"},
+    {"name": "Pacific Rift: Why Americans and Japanese Don't Understand Each Other", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349081431i/324687.jpg"},
+    {"name": "Moneyball: The Art of Winning an Unfair Game", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388176510i/1301.jpg"},
+    {"name": "The Blind Side: Evolution of a Game", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347350403i/817791.jpg"},
+    {"name": "Panic: The Story of Modern Financial Insanity", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348773282i/7182861.jpg"},
+    {"name": "The Big Short: Inside the Doomsday Machine", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456711581i/29363577.jpg"},
+    {"name": "Boomerang: Travels in the New Third World", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345046879i/13707738.jpg"},
+    {"name": "Flash Boys: A Wall Street Revolt", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426093936i/24724602.jpg"},
+    {"name": "The Undoing Project: A Friendship That Changed Our Minds", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509135882i/35631386.jpg"},
+    {"name": "The Fifth Risk: Undoing Democracy", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562687004i/46266188.jpg"},
+    {"name": "The Premonition: A Pandemic Story", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611844095i/56790170.jpg"},
+    {"name": "Going Infinite: The Rise and Fall of a New Tycoon", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684247487i/149105520.jpg"}
   ]
 }
