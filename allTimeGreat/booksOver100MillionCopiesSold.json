@@ -1,0 +1,11 @@
+{
+  "items": [
+    {"name": "A Tale of Two Cities by Charles Dickens", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tales_serial.jpg/220px-Tales_serial.jpg"},
+    {"name": "The Little Prince (Le Petit Prince) by Antoine de Saint-Exupéry", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Littleprince.JPG/220px-Littleprince.JPG"},
+    {"name": "The Lord of the Rings by J. R. R. Tolkien", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif/220px-First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif"},
+    {"name": "Harry Potter and the Philosopher's Stone by J. K. Rowling", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg"},
+    {"name": "And Then There Were None by Agatha Christie", "img": "https://upload.wikimedia.org/wikipedia/en/2/26/And_Then_There_Were_None_US_First_Edition_Cover_1940.jpg"},
+    {"name": "Dream of the Red Chamber (紅樓夢) by Cao Xueqin", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hongloumeng2.jpg/180px-Hongloumeng2.jpg"},
+    {"name": "The Hobbit by J. R. R. Tolkien", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/TheHobbit_FirstEdition.jpg/220px-TheHobbit_FirstEdition.jpg"}
+  ]
+}
