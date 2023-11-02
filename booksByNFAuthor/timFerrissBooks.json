@@ -1,9 +1,9 @@
 {
   "items": [
-    {"name": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich", "img": "Placeholder"},
-    {"name": "The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman", "img": "Placeholder"},
-    {"name": "The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life", "img": "Placeholder"},
-    {"name": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers", "img": "Placeholder"},
-    {"name": "Tribe of Mentors: Short Life Advice from the Best in the World", "img": "Placeholder"}
+    {"name": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442957271i/368593.jpg"},
+    {"name": "The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351861578i/7148931.jpg"},
+    {"name": "The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349156708i/13129810.jpg"},
+    {"name": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472831109i/31823677.jpg"},
+    {"name": "Tribe of Mentors: Short Life Advice from the Best in the World", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504838177i/36200111.jpg"}
   ]
 }
