@@ -1,11 +1,10 @@
 {
   "items": [
-    {"name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change", "img": "Placeholder"},
-    {"name": "Principle-Centered Leadership", "img": "Placeholder"},
-    {"name": "First Things First (co-authored with A. Roger Merrill and Rebecca R. Merrill)", "img": "Placeholder"},
-    {"name": "The 7 Habits of Highly Effective Families: Building a Beautiful Family Culture in a Turbulent World", "img": "Placeholder"},
-    {"name": "Living the 7 Habits: The Courage to Change", "img": "Placeholder"},
-    {"name": "The 8th Habit: From Effectiveness to Greatness", "img": "Placeholder"},
-    {"name": "The 3rd Alternative: Solving Life's Most Difficult Problems", "img": "Placeholder"}
+    {"name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421842784i/36072.jpg"},
+    {"name": "Principle-Centered Leadership", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429971401i/44644.jpg"},
+    {"name": "First Things First (co-authored with A. Roger Merrill and Rebecca R. Merrill)", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440528321i/36071.jpg"},
+    {"name": "The 7 Habits of Highly Effective Families", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312065155i/783128.jpg"},
+    {"name": "Living the 7 Habits: The Courage to Change", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348644902i/842590.jpg"},
+    {"name": "The 8th Habit: From Effectiveness to Greatness", "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435624014i/1044141.jpg"}
   ]
 }
