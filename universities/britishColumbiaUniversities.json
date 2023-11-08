@@ -1,19 +1,18 @@
 {
   "items": [
-    {"name": "University of British Columbia (UBC)", "img": "Placeholder"},
-    {"name": "Simon Fraser University (SFU)", "img": "Placeholder"},
-    {"name": "University of Victoria (UVic)", "img": "Placeholder"},
-    {"name": "University of Northern British Columbia (UNBC)", "img": "Placeholder"},
-    {"name": "Thompson Rivers University (TRU)", "img": "Placeholder"},
-    {"name": "Royal Roads University", "img": "Placeholder"},
-    {"name": "Emily Carr University of Art and Design", "img": "Placeholder"},
-    {"name": "Kwantlen Polytechnic University (KPU)", "img": "Placeholder"},
-    {"name": "Capilano University", "img": "Placeholder"},
-    {"name": "University of the Fraser Valley (UFV)", "img": "Placeholder"},
-    {"name": "Trinity Western University (TWU)", "img": "Placeholder"},
-    {"name": "Vancouver Island University (VIU)", "img": "Placeholder"},
-    {"name": "Douglas College", "img": "Placeholder"},
-    {"name": "University Canada West (UCW)", "img": "Placeholder"},
-    {"name": "Quest University Canada", "img": "Placeholder"}
+    {"name": "University of British Columbia (UBC)", "img": "https://seeklogo.com/images/U/university-of-british-columbia-logo-F4496C20CA-seeklogo.com.png"},
+    {"name": "Simon Fraser University (SFU)", "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SFU_logo.png"},
+    {"name": "University of Victoria (UVic)", "img": "https://www.uvic.ca/brand/assets/images/graphics/misc/UVic-mark.jpg"},
+    {"name": "University of Northern British Columbia (UNBC)", "img": "https://yt3.googleusercontent.com/ytc/APkrFKaOC7ipP48lj89XqU1pSKPxK1oqbrhWIfNRKU8=s900-c-k-c0x00ffffff-no-rj"},
+    {"name": "Thompson Rivers University (TRU)", "img": "https://www.tru.ca/__shared/assets/Logos-01_-TRU_Logo_Left_900px37269.png"},
+    {"name": "Royal Roads University", "img": "https://www.royalroads.ca/sites/default/files/styles/hero_image_scale_1024/public/2021-06/2.0_Header-Logo_0.png?itok=M9RFe6qu"},
+    {"name": "Emily Carr University of Art and Design", "img": "https://d1bdilxpumkn65.cloudfront.net/assets/hero-images/ECU-Logo_RGB.png"},
+    {"name": "Kwantlen Polytechnic University (KPU)", "img": "https://1000logos.net/wp-content/uploads/2021/02/KPU-logo-500x326.png"},
+    {"name": "Capilano University", "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/CapU_logo_horizontal_rgb.png"},
+    {"name": "University of the Fraser Valley (UFV)", "img": "https://www.ufv.ca/media/2015/ufv2015/imgs/badges/UFV-Social-Media-Badge-400px-MAIN.jpg"},
+    {"name": "Trinity Western University (TWU)", "img": "https://www.twu.ca/sites/default/files/styles/rad_classic_1200w/public/sites/default/files/twu_banner_1_1.jpg?h=74d28bce&itok=LQmGH4vW"},
+    {"name": "Vancouver Island University (VIU)", "img": "https://www.viu.ca/profiles/viu/themes/viu_theme/assets/images/viu_logo_opengraph.png"},
+    {"name": "University Canada West (UCW)", "img": "https://mms.businesswire.com/media/20210219005185/en/860330/22/UCW_LOGO-%28002%29.jpg"},
+    {"name": "Quest University Canada", "img": "https://questu.ca/wp-content/uploads/2022/11/cropped-Quest_Logos_Fall2022_Black.png"}
   ]
 }
