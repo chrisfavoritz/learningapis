@@ -1,12 +1,12 @@
 {
   "items": [
-    {"name": "University of Alberta", "img": "Placeholder"},
-    {"name": "University of Calgary", "img": "Placeholder"},
-    {"name": "University of Lethbridge", "img": "Placeholder"},
-    {"name": "Athabasca University", "img": "Placeholder"},
-    {"name": "Mount Royal University", "img": "Placeholder"},
-    {"name": "MacEwan University", "img": "Placeholder"},
-    {"name": "Ambrose University", "img": "Placeholder"},
-    {"name": "St. Mary's University", "img": "Placeholder"}
+    {"name": "University of Alberta", "img": "https://www.ualberta.ca/toolkit/media-library/homepage-assets/ua_logo_green_rgb.png"},
+    {"name": "University of Calgary", "img": "https://www.ucalgary.ca/sites/default/files/styles/ucws_image_desktop/public/2019-09/UCalgary_Vertical_logo_colour_1.jpg?h=55272f2a&itok=PrLMnGHO"},
+    {"name": "University of Lethbridge", "img": "https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/University_of_Lethbridge_Logo.svg/640px-University_of_Lethbridge_Logo.svg.png"},
+    {"name": "Athabasca University", "img": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1467058738/qd1mtkmztlmsruuv79jm.png"},
+    {"name": "Mount Royal University", "img": "https://www.mtroyal.ca/AboutMountRoyal/MarketingCommunications/_image/MRU_1c_logo_Outline_pms539.png"},
+    {"name": "MacEwan University", "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/MacEwanU-Logo.svg"},
+    {"name": "Ambrose University", "img": "https://ambrose.edu/sites/default/files/2021-06/Ambrose%20University%20Logo%20V%20PMS%20124.png"},
+    {"name": "St. Mary's University", "img": "https://www.univcan.ca/wp-content/uploads/2022/10/St-Marys-Alberta-logo-480x400-1.png"}
   ]
 }
