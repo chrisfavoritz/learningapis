@@ -1,22 +1,19 @@
 {
   "items": [
-    {"name": "McGill University", "img": "Placeholder"},
-    {"name": "Université de Montréal", "img": "Placeholder"},
-    {"name": "Université Laval", "img": "Placeholder"},
-    {"name": "Université de Sherbrooke", "img": "Placeholder"},
-    {"name": "Université du Québec à Montréal (UQAM)", "img": "Placeholder"},
-    {"name": "Université du Québec à Trois-Rivières (UQTR)", "img": "Placeholder"},
-    {"name": "Université du Québec à Chicoutimi (UQAC)", "img": "Placeholder"},
-    {"name": "Université du Québec à Rimouski (UQAR)", "img": "Placeholder"},
-    {"name": "Concordia University", "img": "Placeholder"},
-    {"name": "Université de Québec en Abitibi-Témiscamingue (UQAT)", "img": "Placeholder"},
-    {"name": "Université de Québec en Outaouais (UQO)", "img": "Placeholder"},
-    {"name": "Bishop's University", "img": "Placeholder"},
-    {"name": "École de technologie supérieure (ÉTS)", "img": "Placeholder"},
-    {"name": "HEC Montréal (École des Hautes Études Commerciales)", "img": "Placeholder"},
-    {"name": "Polytechnique Montréal", "img": "Placeholder"},
-    {"name": "Université de Sherbrooke - Campus de Longueuil", "img": "Placeholder"},
-    {"name": "Université TÉLUQ", "img": "Placeholder"},
-    {"name": "TÉLUQ - Télé-université (Online University)", "img": "Placeholder"}
+    {"name": "McGill University", "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mcgill_university_coa.png"},
+    {"name": "Université de Montréal", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Universite_de_Montreal_logo.svg/320px-Universite_de_Montreal_logo.svg.png"},
+    {"name": "Université Laval", "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Universit%C3%A9_Laval_logo_et_texte.svg/1280px-Universit%C3%A9_Laval_logo_et_texte.svg.png"},
+    {"name": "Université de Sherbrooke", "img": "https://www.usherbrooke.ca/gnec/img/1/5/91242715-udes_logo_test.jpg"},
+    {"name": "Université du Québec à Montréal (UQAM)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al_Logo.svg/800px-Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al_Logo.svg.png"},
+    {"name": "Université du Québec à Trois-Rivières (UQTR)", "img": "https://oraprdnt.uqtr.uquebec.ca/catalogue/image/uqtr/v-UQTR.jpg"},
+    {"name": "Université du Québec à Chicoutimi (UQAC)", "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Chicoutimi_%28logo%29.png"},
+    {"name": "Université du Québec à Rimouski (UQAR)", "img": "https://www.uqar.ca/uqar/universite/a-propos-de-luqar/documentation_institutionnelle/logo_uqar/png300/uqar_rikilevis-300.png"},
+    {"name": "Concordia University", "img": "https://www.concordia.ca/content/dam/common/logos/Concordia-logo.jpeg"},
+    {"name": "Université de Québec en Abitibi-Témiscamingue (UQAT)", "img": "https://upload.wikimedia.org/wikipedia/fr/5/5b/UQAT_Logo.png"},
+    {"name": "Université de Québec en Outaouais (UQO)", "img": "https://upload.wikimedia.org/wikipedia/fr/b/bb/UQO_Logo.png"},
+    {"name": "Bishop's University", "img": "https://working.ubishops.ca/wp-content/uploads/BU-logo-purple-no-crest-600-transparent.png"},
+    {"name": "École de technologie supérieure (ÉTS)", "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/%C3%89cole_de_technologie_sup%C3%A9rieure_%28logo%29.png"},
+    {"name": "HEC Montréal (École des Hautes Études Commerciales)", "img": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1427802251/yxs5opid0l5sgva1hnr0.png"},
+    {"name": "Polytechnique Montréal", "img": "https://upload.wikimedia.org/wikipedia/fr/9/99/Logo_Polytechnique_Montr%C3%A9al.png"}
   ]
 }
