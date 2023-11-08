@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "University of Alberta", "img": "https://www.ualberta.ca/toolkit/media-library/homepage-assets/ua_logo_green_rgb.png"},
+    {"name": "University of Calgary", "img": "https://www.ucalgary.ca/sites/default/files/styles/ucws_image_desktop/public/2019-09/UCalgary_Vertical_logo_colour_1.jpg?h=55272f2a&itok=PrLMnGHO"},
+    {"name": "University of Lethbridge", "img": "https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/University_of_Lethbridge_Logo.svg/640px-University_of_Lethbridge_Logo.svg.png"},
+    {"name": "Athabasca University", "img": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1467058738/qd1mtkmztlmsruuv79jm.png"},
+    {"name": "Mount Royal University", "img": "https://www.mtroyal.ca/AboutMountRoyal/MarketingCommunications/_image/MRU_1c_logo_Outline_pms539.png"},
+    {"name": "MacEwan University", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/MacEwanU-Logo.svg/640px-MacEwanU-Logo.svg.png"},
+    {"name": "Ambrose University", "img": "https://ambrose.edu/sites/default/files/2021-06/Ambrose%20University%20Logo%20V%20PMS%20124.png"},
+    {"name": "St. Mary's University", "img": "https://www.univcan.ca/wp-content/uploads/2022/10/St-Marys-Alberta-logo-480x400-1.png"},
+    {"name": "Bow Valley College", "img": "https://bowvalleycollege.ca/-/media/bvc/home-page/bvc_logo_300x165_snipe1/bvc_logo_300x150.ashx"},
+    {"name": "NorQuest College", "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/NorQuest_College_Logo.png"},
+    {"name": "Medicine Hat College", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Medicine_Hat_College_Logo.svg/220px-Medicine_Hat_College_Logo.svg.png"},
+    {"name": "Olds College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/OCAT_Logo_2022.png/640px-OCAT_Logo_2022.png"},
+    {"name": "Portage College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/member_logo_AB_Portage_College.png"},
+    {"name": "Red Deer College", "img": "https://www.rdpolytech.ca/sites/default/files/2021-10/RDP%20logo%20933.png"},
+    {"name": "Grande Prairie Regional College", "img": "https://www.gprin.ca/wp-content/uploads/2017/03/GPRIN-partner-grande-prairie-regional-college-3.jpg"},
+    {"name": "Lethbridge College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lethbridge_College_Logo.svg/1200px-Lethbridge_College_Logo.svg.png"},
+    {"name": "Lakeland College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lakeland_College_%28Alberta%29_logo.svg/1200px-Lakeland_College_%28Alberta%29_logo.svg.png"},
+    {"name": "SAIT (Southern Alberta Institute of Technology)", "img": "https://www.sait.ca/assets/images/sait/logos/logo-sait-vertical-downloadable.png"}
+  ]
+}
