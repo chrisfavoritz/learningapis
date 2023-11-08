@@ -1,19 +1,16 @@
 {
   "items": [
-    {"name": "Langara College", "img": "Placeholder"},
-    {"name": "Douglas College", "img": "Placeholder"},
-    {"name": "Capilano University", "img": "Placeholder"},
-    {"name": "Vancouver Community College", "img": "Placeholder"},
-    {"name": "British Columbia Institute of Technology (BCIT)", "img": "Placeholder"},
-    {"name": "Camosun College", "img": "Placeholder"},
-    {"name": "Vancouver Island University", "img": "Placeholder"},
-    {"name": "College of the Rockies", "img": "Placeholder"},
-    {"name": "Okanagan College", "img": "Placeholder"},
-    {"name": "Selkirk College", "img": "Placeholder"},
-    {"name": "Northern Lights College", "img": "Placeholder"},
-    {"name": "North Island College", "img": "Placeholder"},
-    {"name": "Thompson Rivers University", "img": "Placeholder"},
-    {"name": "Coast Mountain College", "img": "Placeholder"},
-    {"name": "Nicola Valley Institute of Technology (NVIT)", "img": "Placeholder"}
+    {"name": "Langara College", "img": "https://www.languagescanada.ca/web/default/files/public/public/Langara%20RGB%20Logos.jpg"},
+    {"name": "Douglas College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Douglas_College_logo.svg/228px-Douglas_College_logo.svg.png"},
+    {"name": "Vancouver Community College", "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vancouver_Community_College_logo.png"},
+    {"name": "British Columbia Institute of Technology (BCIT)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BCIT_logo.svg/120px-BCIT_logo.svg.png?20190321051222"},
+    {"name": "Camosun College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cclo.png/260px-Cclo.png"},
+    {"name": "College of the Rockies", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wikipedia-logo.jpg"},
+    {"name": "Okanagan College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/OkCollegeColRGBsmall.png/200px-OkCollegeColRGBsmall.png"},
+    {"name": "Selkirk College", "img": "https://www.triumf.ca/sites/default/files/styles/gallery_large/public/images/SelkirkLogo_Vert_4C.jpg?itok=atsLN6FL"},
+    {"name": "Northern Lights College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Northern_Lights_College_logo.svg/640px-Northern_Lights_College_logo.svg.png"},
+    {"name": "North Island College", "img": "https://www.internationalexperience.ca/wp-content/uploads/2020/07/North-Island-College.png"},
+    {"name": "Coast Mountain College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/cmc-1.jpg"},
+    {"name": "Nicola Valley Institute of Technology (NVIT)", "img": "https://www.nvit.ca/sitecm/i/nvit-full-nameb_optomized.jpg"}
   ]
 }
