@@ -1,13 +1,13 @@
 {
   "items": [
-    {"name": "Acadia University", "img": "Placeholder"},
-    {"name": "Cape Breton University", "img": "Placeholder"},
-    {"name": "Dalhousie University", "img": "Placeholder"},
-    {"name": "Mount Saint Vincent University", "img": "Placeholder"},
-    {"name": "Saint Francis Xavier University", "img": "Placeholder"},
-    {"name": "Saint Mary's University", "img": "Placeholder"},
-    {"name": "Université Sainte-Anne", "img": "Placeholder"},
-    {"name": "University of King's College", "img": "Placeholder"},
-    {"name": "Dalhousie University Agricultural Campus", "img": "Placeholder"}
+    {"name": "Acadia University", "img": "https://ires.ubc.ca/files/2021/02/acadia-university-logo-canada1.jpg"},
+    {"name": "Cape Breton University", "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cape_Breton_University_Logo.jpg"},
+    {"name": "Dalhousie University", "img": "https://dal.ca/content/dam/dalhousie/images/about/DAL_LogoVert_RGB_Gold_Wingtip.png.lt_ed046a9158bb8d287e2c8f940264f6cc.res/DAL_LogoVert_RGB_Gold_Wingtip.png"},
+    {"name": "Mount Saint Vincent University", "img": "https://upload.wikimedia.org/wikipedia/en/4/48/MountSaintVincentUniversity_logo.jpg"},
+    {"name": "St. Francis Xavier University", "img": "https://www.stfx.ca/sites/default/files/images/STFX%20VERTICAL%20Full%20Colour.png"},
+    {"name": "Saint Mary's University", "img": "https://images.squarespace-cdn.com/content/v1/56a7b5951c1210756e3465c1/1622660877900-KPNSB04Y5QXPILQD1AHX/SMU_Logo.jpg"},
+    {"name": "Université Sainte-Anne", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Universit%C3%A9_Sainte-Anne_Logo.svg/2560px-Universit%C3%A9_Sainte-Anne_Logo.svg.png"},
+    {"name": "University of King's College", "img": "https://ukings-files.s3.ca-central-1.amazonaws.com/branding/web/vert/UKC_Vert_Colour_BlueText_RGB.png"},
+    {"name": "Dalhousie University Agricultural Campus", "img": "https://dalams.ca/wp-content/uploads/2022/02/Logo7-4.png"}
   ]
 }
