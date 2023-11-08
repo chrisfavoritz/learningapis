@@ -8,6 +8,7 @@
     {"name": "Saint Mary's University", "img": "https://images.squarespace-cdn.com/content/v1/56a7b5951c1210756e3465c1/1622660877900-KPNSB04Y5QXPILQD1AHX/SMU_Logo.jpg"},
     {"name": "Université Sainte-Anne", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Universit%C3%A9_Sainte-Anne_Logo.svg/2560px-Universit%C3%A9_Sainte-Anne_Logo.svg.png"},
     {"name": "University of King's College", "img": "https://ukings-files.s3.ca-central-1.amazonaws.com/branding/web/vert/UKC_Vert_Colour_BlueText_RGB.png"},
-    {"name": "Dalhousie University Agricultural Campus", "img": "https://dalams.ca/wp-content/uploads/2022/02/Logo7-4.png"}
+    {"name": "Dalhousie University Agricultural Campus", "img": "https://dalams.ca/wp-content/uploads/2022/02/Logo7-4.png"},
+    {"name": "Nova Scotia Community College (NSCC)", "img": "https://www.nscc.ca/img/fbgraph/default-nscc.jpg"}
   ]
 }
