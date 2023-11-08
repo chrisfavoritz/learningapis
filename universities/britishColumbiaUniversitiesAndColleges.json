@@ -1,0 +1,30 @@
+{
+  "items": [
+    {"name": "University of British Columbia (UBC)", "img": "https://seeklogo.com/images/U/university-of-british-columbia-logo-F4496C20CA-seeklogo.com.png"},
+    {"name": "Simon Fraser University (SFU)", "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SFU_logo.png"},
+    {"name": "University of Victoria (UVic)", "img": "https://www.uvic.ca/brand/assets/images/graphics/misc/UVic-mark.jpg"},
+    {"name": "University of Northern British Columbia (UNBC)", "img": "https://yt3.googleusercontent.com/ytc/APkrFKaOC7ipP48lj89XqU1pSKPxK1oqbrhWIfNRKU8=s900-c-k-c0x00ffffff-no-rj"},
+    {"name": "Thompson Rivers University (TRU)", "img": "https://www.tru.ca/__shared/assets/Logos-01_-TRU_Logo_Left_900px37269.png"},
+    {"name": "Royal Roads University", "img": "https://www.royalroads.ca/sites/default/files/styles/hero_image_scale_1024/public/2021-06/2.0_Header-Logo_0.png?itok=M9RFe6qu"},
+    {"name": "Emily Carr University of Art and Design", "img": "https://d1bdilxpumkn65.cloudfront.net/assets/hero-images/ECU-Logo_RGB.png"},
+    {"name": "Kwantlen Polytechnic University (KPU)", "img": "https://1000logos.net/wp-content/uploads/2021/02/KPU-logo-500x326.png"},
+    {"name": "Capilano University", "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/CapU_logo_horizontal_rgb.png"},
+    {"name": "University of the Fraser Valley (UFV)", "img": "https://www.ufv.ca/media/2015/ufv2015/imgs/badges/UFV-Social-Media-Badge-400px-MAIN.jpg"},
+    {"name": "Trinity Western University (TWU)", "img": "https://www.twu.ca/sites/default/files/styles/rad_classic_1200w/public/sites/default/files/twu_banner_1_1.jpg?h=74d28bce&itok=LQmGH4vW"},
+    {"name": "Vancouver Island University (VIU)", "img": "https://www.viu.ca/profiles/viu/themes/viu_theme/assets/images/viu_logo_opengraph.png"},
+    {"name": "University Canada West (UCW)", "img": "https://mms.businesswire.com/media/20210219005185/en/860330/22/UCW_LOGO-%28002%29.jpg"},
+    {"name": "Quest University Canada", "img": "https://questu.ca/wp-content/uploads/2022/11/cropped-Quest_Logos_Fall2022_Black.png"},
+    {"name": "Langara College", "img": "https://www.languagescanada.ca/web/default/files/public/public/Langara%20RGB%20Logos.jpg"},
+    {"name": "Douglas College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Douglas_College_logo.svg/228px-Douglas_College_logo.svg.png"},
+    {"name": "Vancouver Community College", "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vancouver_Community_College_logo.png"},
+    {"name": "British Columbia Institute of Technology (BCIT)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BCIT_logo.svg/120px-BCIT_logo.svg.png?20190321051222"},
+    {"name": "Camosun College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cclo.png/260px-Cclo.png"},
+    {"name": "College of the Rockies", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wikipedia-logo.jpg"},
+    {"name": "Okanagan College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/OkCollegeColRGBsmall.png/200px-OkCollegeColRGBsmall.png"},
+    {"name": "Selkirk College", "img": "https://www.triumf.ca/sites/default/files/styles/gallery_large/public/images/SelkirkLogo_Vert_4C.jpg?itok=atsLN6FL"},
+    {"name": "Northern Lights College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Northern_Lights_College_logo.svg/640px-Northern_Lights_College_logo.svg.png"},
+    {"name": "North Island College", "img": "https://www.internationalexperience.ca/wp-content/uploads/2020/07/North-Island-College.png"},
+    {"name": "Coast Mountain College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/cmc-1.jpg"},
+    {"name": "Nicola Valley Institute of Technology (NVIT)", "img": "https://www.nvit.ca/sitecm/i/nvit-full-nameb_optomized.jpg"}
+  ]
+}
