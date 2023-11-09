@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"name": "Drawing or sketching", "img": "https://em-content.zobj.net/source/apple/354/crayon_1f58d-fe0f.png"},
+    {"name": "Painting (e.g., watercolor, oil, acrylics)", "img": "https://em-content.zobj.net/source/apple/354/artist-palette_1f3a8.png"},
+    {"name": "Pottery or ceramics", "img": "https://em-content.zobj.net/source/apple/354/amphora_1f3fa.png"},
+    {"name": "Sculpting", "img": "https://em-content.zobj.net/source/apple/354/moai_1f5ff.png"},
+    {"name": "Jewelry making", "img": "https://em-content.zobj.net/source/apple/354/prayer-beads_1f4ff.png"},
+    {"name": "Knitting or crocheting", "img": "https://em-content.zobj.net/source/apple/354/yarn_1f9f6.png"},
+    {"name": "Quilting or sewing", "img": "https://em-content.zobj.net/source/apple/354/sewing-needle_1faa1.png"},
+    {"name": "Scrapbooking", "img": "https://em-content.zobj.net/source/apple/354/notebook-with-decorative-cover_1f4d4.png"},
+    {"name": "Calligraphy or hand lettering", "img": "https://em-content.zobj.net/source/apple/354/fountain-pen_1f58b-fe0f.png"},
+    {"name": "DIY home projects", "img": "https://em-content.zobj.net/source/apple/354/derelict-house_1f3da-fe0f.png"}
+  ]
+}
