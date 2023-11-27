@@ -1,13 +1,13 @@
 {
   "items": [
-    {"name": "Bow Valley College", "img": "https://bowvalleycollege.ca/-/media/bvc/home-page/bvc_logo_300x165_snipe1/bvc_logo_300x150.ashx"},
+    {"name": "Lethbridge College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lethbridge_College_Logo.svg/1200px-Lethbridge_College_Logo.svg.png"},
+    {"name": "Bow Valley College", "img": "https://talentpooljobfair.com/wp-content/uploads/2021/02/bvc-logo2-300x152.png"},
     {"name": "NorQuest College", "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/NorQuest_College_Logo.png"},
     {"name": "Medicine Hat College", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Medicine_Hat_College_Logo.svg/220px-Medicine_Hat_College_Logo.svg.png"},
     {"name": "Olds College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/OCAT_Logo_2022.png/640px-OCAT_Logo_2022.png"},
     {"name": "Portage College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/member_logo_AB_Portage_College.png"},
     {"name": "Red Deer College", "img": "https://www.rdpolytech.ca/sites/default/files/2021-10/RDP%20logo%20933.png"},
     {"name": "Grande Prairie Regional College", "img": "https://www.gprin.ca/wp-content/uploads/2017/03/GPRIN-partner-grande-prairie-regional-college-3.jpg"},
-    {"name": "Lethbridge College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lethbridge_College_Logo.svg/1200px-Lethbridge_College_Logo.svg.png"},
     {"name": "Lakeland College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lakeland_College_%28Alberta%29_logo.svg/1200px-Lakeland_College_%28Alberta%29_logo.svg.png"},
     {"name": "SAIT (Southern Alberta Institute of Technology)", "img": "https://www.sait.ca/assets/images/sait/logos/logo-sait-vertical-downloadable.png"}
   ]
