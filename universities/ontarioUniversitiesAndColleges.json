@@ -1,6 +1,6 @@
 {
   "items": [
-    {"name": "Algoma University", "img": "https://upload.wikimedia.org/wikipedia/en/3/31/NEWAULogosm.png"},
+    {"name": "Algoma University", "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/AU_wordmark.png"},
     {"name": "Brock University", "img": "https://brocku.ca/building-bridges/wp-content/uploads/sites/191/brock-logo.png?x94950"},
     {"name": "Carleton University", "img": "https://carleton.ca/webservices/wp-content/uploads/logo-th.jpg"},
     {"name": "Lakehead University", "img": "https://studyonline.ca/wp-content/uploads/2022/08/Lakehead-University-Logo.png"},
@@ -14,7 +14,7 @@
     {"name": "University of Guelph", "img": "https://studyonline.ca/wp-content/uploads/2022/08/University-of-Guelph-Logo.png"},
     {"name": "Ontario Tech University", "img": "https://shared.ontariotechu.ca/shared/ontario-tech/images/ontariotechu-og-image.jpg"},
     {"name": "University of Ottawa", "img": "https://www.uottawa.ca/brand/sites/www.uottawa.ca.brand/files/updated_logo_0.jpg"},
-    {"name": "University of Toronto", "img": "https://clue.utoronto.ca/wp-content/uploads/2021/11/utoronto.jpg"},
+    {"name": "University of Toronto", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.pngg"},
     {"name": "University of Waterloo", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"},
     {"name": "University of Western Ontario (Western University)", "img": "https://www.communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif"},
     {"name": "University of Windsor", "img": "https://www.uwindsor.ca/research-ethics-board/sites/uwindsor.ca.research-ethics-board/files/uw_logo_vert.png"},
@@ -22,7 +22,7 @@
     {"name": "York University", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_York_University.svg/2560px-Logo_York_University.svg.png"},
     {"name": "Seneca College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Seneca-logo.svg/640px-Seneca-logo.svg.png"},
     {"name": "Humber College", "img": "https://humber.ca/brand/sites/default/files/logos/Primary_Logo/Humber_Logo_Blue_and_Gold.png"},
-    {"name": "George Brown College", "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/George_Brown_College_logo.svg"},
+    {"name": "George Brown College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/George_Brown_College_logo.svg/1200px-George_Brown_College_logo.svg.png"},
     {"name": "Centennial College", "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Centennial_College_Logo.jpg"},
     {"name": "Sheridan College", "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sheridan_College_Logo.png?20150910152519"},
     {"name": "Durham College", "img": "https://durhamcollege.ca/wp-content/uploads/DC-logo-700-by-400-1.jpg"},
