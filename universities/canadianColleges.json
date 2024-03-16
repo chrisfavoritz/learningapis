@@ -6,7 +6,7 @@
     {"name": "Medicine Hat College", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Medicine_Hat_College_Logo.svg/220px-Medicine_Hat_College_Logo.svg.png"},
     {"name": "Olds College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/OCAT_Logo_2022.png/640px-OCAT_Logo_2022.png"},
     {"name": "Portage College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/member_logo_AB_Portage_College.png"},
-    {"name": "Red Deer College", "img": "https://www.rdpolytech.ca/sites/default/files/2021-10/RDP%20logo%20933.png"},
+    {"name": "Red Deer College", "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Red_Deer_CoA.jpg"},
     {"name": "Grande Prairie Regional College", "img": "https://www.gprin.ca/wp-content/uploads/2017/03/GPRIN-partner-grande-prairie-regional-college-3.jpg"},
     {"name": "Lakeland College", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lakeland_College_%28Alberta%29_logo.svg/1200px-Lakeland_College_%28Alberta%29_logo.svg.png"},
     {"name": "SAIT (Southern Alberta Institute of Technology)", "img": "https://www.sait.ca/assets/images/sait/logos/logo-sait-vertical-downloadable.png"},
@@ -66,6 +66,8 @@
     {"name": "North West Regional College", "img": "https://northwestcollege.ca/slices/logo4.png"},
     {"name": "Cumberland College", "img": "https://aplicar-prod-public.s3.amazonaws.com/uploads/school/logos/3b41fbc9-358c-41c0-ac01-9a53d9f3530e/cumberlandCollege.png"},
     {"name": "Carlton Trail College", "img": "https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/Carlton-Trail-College-Logo.jpg"},
-    {"name": "Southeast College", "img": "https://www.southeastcollege.org/assets/southeast-college.png"}
+    {"name": "Southeast College", "img": "https://www.southeastcollege.org/assets/southeast-college.png"},
+    {"name": "New Brunswick Community College (NBCC)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/New_Brunswick_Community_College_logo.svg/302px-New_Brunswick_Community_College_logo.svg.png"},
+    {"name": "Collège communautaire du Nouveau-Brunswick (CCNB)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/CCNB_Logo.pdf/page1-800px-CCNB_Logo.pdf.jpg"}
   ]
 }
