@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "name": "The Assassin’s Blade",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639731084.min_.jpg"
+    },
+    {
+      "name": "Throne of Glass",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/10/9781639730957.min_.jpg"
+    },
+    {
+      "name": "Crown of Midnight",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639730971-min.jpg"
+    },
+    {
+      "name": "Heir of Fire",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639730995-min.jpg"
+    },
+    {
+      "name": "Queen of Shadows",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639731015-min.jpg"
+    },
+    {
+      "name": "Empire of Storms",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639731039-min.jpg"
+    },
+    {
+      "name": "Tower of Dawn",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639731053-min.jpg"
+    },
+    {
+      "name": "Kingdom of Ash",
+      "img": "https://sarahjmaas.com/wp-content/uploads/2023/11/9781639731077-min.jpg"
+    }
+  ]
+}
